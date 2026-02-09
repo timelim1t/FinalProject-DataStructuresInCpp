@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1766389250 source:c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\main.cpp
+	<iostream>
+	<string>
+	"data.h"
+	"customer.h"
+	"movie.h"
+	"rental.h"
+	"relation.h"
+	"customer.cpp"
+	"movie.cpp"
+	"rental.cpp"
+	"relation.cpp"
+
+1766230346 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\data.h
+	<iostream>
+	<string>
+
+1766224019 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\customer.h
+	"data.h"
+
+1766224016 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\movie.h
+	"data.h"
+
+1766223392 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\rental.h
+	"data.h"
+	"movie.h"
+
+1766240099 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\relation.h
+	"customer.h"
+	"movie.h"
+	"rental.h"
+
+1766224246 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\customer.cpp
+	"customer.h"
+	"relation.h"
+	<iostream>
+
+1766224297 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\movie.cpp
+	"movie.h"
+	"relation.h"
+	<iostream>
+
+1766230793 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\rental.cpp
+	"rental.h"
+	"relation.h"
+	<iostream>
+
+1766242065 c:\users\j4rl\onedrive\desktop\praktikum_code\strukdat (c++)\tubes3\program_rentalfilm(final)\relation.cpp
+	"relation.h"
+	<iostream>
+
